@@ -30,7 +30,7 @@ let birdY = canvas.height / 2;
 let velocity = 0;
 const gravity = 0.5;
 const jump = -8;
-const birdSize = 50;
+const birdSize = 30;
 
 //declare pipes
 let pipes = [];
