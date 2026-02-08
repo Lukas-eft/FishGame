@@ -2,6 +2,8 @@
 **Developed by Lukas Eifertinger**
 
 Fish Game is a minimalist, JavaScript-based arcade game. It uses modern web technologies such as the **Canvas API** for smooth graphics and a **Glassmorphism UI** based on CSS backdrop filters.
+<img width="918" height="963" alt="image" src="https://github.com/user-attachments/assets/2ec530c0-fbdc-4552-b9b2-8ba0d6f40347" />
+
 
 ###  Key Functionalities
 
