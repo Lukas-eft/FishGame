@@ -24,3 +24,6 @@ Fish Game is a minimalist, JavaScript-based arcade game. It uses modern web tech
 * `index.html`: The structure of the game and UI layers.
 * `index.css`: Styling for the Glass design and responsiveness.
 * `main.js`: Core game logic, collision detection, and rendering system.
+
+### Copyright
+For any Copyright concerns feel free to contact me.
